@@ -14,7 +14,7 @@
 ##### Crear migraciones:
 `php artisan make:migration`
 #####  Ejecutar migraciones:
-`php artisan make:migrate`
+`php artisan migrate`
 
 ## Base de Datos:
 Configuración `env` :
